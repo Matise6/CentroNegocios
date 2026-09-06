@@ -190,9 +190,9 @@ switch ($metodo) {
             "mensaje" => "Método no permitido"
         ]);
 
-        break;
+         break;
 }
 
 $conexion->close();
 
-?>
+?>  
