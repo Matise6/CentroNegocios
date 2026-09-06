@@ -37,7 +37,7 @@
                 </p>
 
                 <small>
-                    Simulacion Academica
+                     Simulacion Academica
                 </small>
 
             </div>
