@@ -1,0 +1,87 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #212529;
+}
+
+.hero {
+    min-height: 520px;
+    background-color: #f5f7fa;
+}
+
+.hero h1 {
+    max-width: 750px;
+}
+
+.hero p {
+    max-width: 750px;
+}
+
+section {
+    scroll-margin-top: 80px;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
+
+.nav-link {
+    margin-left: 10px;
+}
+#nosotros {
+    line-height: 1.7;
+}
+
+#nosotros h2 {
+    font-size: 2.3rem;
+}
+.card-img-top {
+    height: 220px;
+    object-fit: cover;
+}
+
+.card {
+    border: none;
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+#servicios h2 {
+    font-size: 2.3rem;
+}
+.testimonio-card {
+    max-width: 700px;
+    min-height: 250px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #212529;
+    border-radius: 50%;
+    padding: 20px;
+}
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
